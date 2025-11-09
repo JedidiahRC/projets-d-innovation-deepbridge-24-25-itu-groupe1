@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Dev\\Github\\projets-d-innovation-24-25-barrali-choubrac-colin\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0210B26B-FA4D-49E5-9A16-67EBC94D6EB7}|DeepBridgeWindowsAppCore.csproj|d:\\dev\\github\\projets-d-innovation-24-25-barrali-choubrac-colin\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0210B26B-FA4D-49E5-9A16-67EBC94D6EB7}|DeepBridgeWindowsAppCore.csproj|solutionrelative:mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "D:\\Dev\\Github\\projets-d-innovation-24-25-barrali-choubrac-colin\\MainForm.cs",
+              "RelativeDocumentMoniker": "MainForm.cs",
+              "ToolTip": "D:\\Dev\\Github\\projets-d-innovation-24-25-barrali-choubrac-colin\\MainForm.cs",
+              "RelativeToolTip": "MainForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T07:31:44.133Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
